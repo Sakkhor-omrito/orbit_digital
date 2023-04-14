@@ -72,7 +72,7 @@ p{
 }
 
 .navbar_items .nav-item .nav-link:hover{
-    color: red;
+    color:#9857FF;
 }
 /* navbar css end */
 
@@ -637,7 +637,7 @@ text-transform: uppercase;
     width: 80%;
 }
 .footer_2_items span:hover{
-    color: rgb(243, 89, 84);
+    color:var(--tartiary-color);
 }
 .footer_2_items {
     margin-bottom: 15px;
@@ -668,7 +668,7 @@ text-transform: uppercase;
     transition: .5s;
 }
 .footer_3_items ul li a:hover{
-    color: rgb(243, 89, 84);
+    color:var(--tartiary-color);
 }
 .social_iconss i{
     height: 40px;

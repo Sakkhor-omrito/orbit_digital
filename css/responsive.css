@@ -24,7 +24,7 @@
     }
     /* hero part cs */
     #Hero_part {
-        padding: 90px 0 100px 0;
+        padding: 190px 0 100px 0;
     }
     .hero_left {
         margin: 20px 0 0 15px;
@@ -201,8 +201,14 @@
     .navbar_items li {
         padding: 0 2px;
     }
+    #Hero_part .row{
+        flex-direction: column-reverse;
+    }
     #Hero_part {
-        padding: 70px 0 140px 0;
+        padding: 140px 0 40px 0;
+    }
+    .hero_right{
+        margin-bottom: 50px;
     }
     .hero_left {
         margin: 20px;
@@ -214,8 +220,8 @@
         margin:30px 0 0 0px;
     }
     .finish_projects {
-        bottom: -3%;
-        right: 3%;
+        bottom: 38%;
+        right: 1%;
     }
     /* logo part */
     .logos{
@@ -572,7 +578,9 @@
     .hero_right img {
         margin: 0px -11px;
     }
-
+.hero_right{
+    margin-bottom: 20px;
+}
     /* logo part css */
    
     #logo_part {
