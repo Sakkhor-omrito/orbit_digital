@@ -1,0 +1,778 @@
+@media(min-width:1400px){
+    .finish_projects {
+        bottom: -10%;
+        right: -1%;
+    }
+    .service_1 {
+        height: 400px;
+    }
+    .team_items {
+        padding: 25px;
+        height: 625px;
+    }
+    .get_special {
+        bottom: 6%;
+        left: 33%;
+    }
+}
+@media(min-width:992px) and (max-width:1199.98px){
+    .navbs_logo img {
+        max-width: 130px;
+    }
+    .navbar_items .nav-item .nav-link {
+        font-size: 15px;
+    }
+    /* hero part cs */
+    #Hero_part {
+        padding: 90px 0 100px 0;
+    }
+    .hero_left {
+        margin: 20px 0 0 15px;
+    }
+    .navbar_items li {
+        padding: 0 4px;
+    }
+    .hero_left h1 {
+        font-size: 41px;
+    }
+    .hero_left p {
+        font-size: 14px;
+    }
+    .hero_right img {
+        margin-left:10px;
+    }
+    .finish_projects {
+        width: 120px;
+        bottom: 0%;
+        right: 0%;
+    }
+    .finish_projects p {
+        font-size: 21px;
+    }
+    .finish_projects h6 {
+        font-size: 14px;
+    }
+    /* service part css */
+    .service_content h3 {
+        font-size: 20px;
+    }
+    .laravel{
+        margin-top:5px;
+    }
+    .service_content p {
+        font-size: 12px;
+    }
+    .service_1 {
+        height: 360px;
+    }
+
+    /* counter part css */
+    #counter_part {
+        padding-top: 130px;
+    }
+    .counter_content h4 {
+        font-size: 34px;
+        padding-top:0;
+    }
+    .counter_content h5 {
+        font-size: 19px;
+        margin-top: 4px;
+    }
+
+    #Latest_projects {
+        padding: 120px 0 50px 0;
+    }
+    .latest_header h2 {
+        margin-bottom: 50px;
+    }
+    /* gave part css */
+    .gave_header h2 {
+        font-size: 34px;
+    }
+    .gave_header h4 {
+        font-size: 18px;
+        margin-top: 8px;
+    }
+    .gaves_content h6 {
+        font-size: 14px;
+    }
+    .gave_right img {
+        margin-top: 130px;
+        width: 100%;
+    }
+    .most_rating {
+        width: 200px;
+        height: 91px;
+        padding-top: 17px;
+    }
+    .most_rating p {
+        font-size: 14px;
+        margin-top: 4px;
+    }
+    .most_icon i{
+        font-size: 12px;
+    }
+
+    /* team part css */
+  
+    .team_content p {
+        font-size: 13px;
+    }
+
+    /* contact part css */
+    .contact_right {
+        margin: 40px 0 0 30px;
+    }
+    .contact_right h2 {
+        margin-bottom: 10px;
+    }
+    .contact_right h4 {
+        font-size: 20px;
+    }
+    .contact_right p {
+        font-size: 14px;
+    }
+    .contact_bottom1 span {
+        font-size: 15px;
+    }
+    .contact_bottom1 {
+        margin-bottom: 16px;
+    }
+    .get_special {
+        width: 200px;
+        bottom: 6%;
+        left: 31%;
+    }
+    .get_special h6 {
+        font-size: 16px;
+    }
+
+    /* footer part css */
+    .footer_1 p {
+        font-size: 13px;
+    }
+    .footer_2_items span {
+        font-size: 13px;
+        
+    }
+    .footer_2 h6 {
+        margin: 4px 0 33px 0;
+        font-size: 23px;
+    }
+    .footer_icons{
+        display: flex;
+        align-items: center;
+    }
+    .footer_3 h6 {
+        margin: 4px 0 33px 0;
+        font-size: 23px;
+    }
+    .footer_3_items ul li a {
+        font-size: 13px;
+    }
+    .footer_4 {
+        margin-left: 10px;
+    }
+    .social_iconss i {
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+        margin-right: 5px;
+        font-size: 13px;
+    }
+    .footer_4 h6 {
+        font-size: 23px;
+        margin: 5px 0 23px 0;
+    }
+
+    /* contact page */
+    .contact_page {
+        padding: 170px 0 60px 0;
+    }
+}
+@media(min-width:768px) and (max-width:991.98px){
+    /* navbar css */
+    .navbs_logo img {
+        max-width: 100px;
+    }
+    .navbar_items .nav-item .nav-link {
+        font-size: 14px;
+    }
+    .navbar_items li {
+        padding: 0 2px;
+    }
+    #Hero_part {
+        padding: 70px 0 140px 0;
+    }
+    .hero_left {
+        margin: 20px;
+    }
+    .hero_left p {
+        font-size: 15px;
+    }
+    .hero_right img {
+        margin:30px 0 0 0px;
+    }
+    .finish_projects {
+        bottom: -3%;
+        right: 3%;
+    }
+    /* logo part */
+    .logos{
+        padding-right: 20px;
+    }
+    .logos img {
+        max-width: 100px;
+    }
+    .logos_mar {
+        margin-top: 4px;
+    }
+    /* service part  */
+    #service_part {
+	padding-top: 80px;
+}
+.service_1 {
+	margin: 0 30px 39px 30px;
+}
+/* counter part  */
+   #counter_part {
+	background-color: var(--secondary-color);
+	padding-top: 70px;
+  }
+  .counter_content h4 {
+	padding-top:0px;
+	font-size: 35px;
+  }
+  .counter_content h5 {
+	font-size: 19px;
+	margin-top: 3px;
+  }
+
+  /* latest project css */
+  #Latest_projects {
+	padding: 80px 0 50px 0;
+}
+.latest_header h2 {
+	margin-bottom: 50px;
+}
+
+/* gave part css */
+  #gave_part {
+	padding-top: 0px;
+  }
+  .gave_header {
+	text-align: center;
+  }
+  .gave_header h4 {
+	font-size: 19px;
+	margin-top: 5px;
+  }
+  .gave_right img {
+	margin-top: 50px;
+	width: 100%;
+}
+
+/* our team part css */
+#Team_part {
+	padding-bottom:0;
+}
+.team_items {
+	margin-bottom: 50px;
+}
+/* contact part css */
+.get_special {
+	width: 220px;
+	bottom: 40%;
+	left: 71%;
+}
+.contact_right {
+	margin: 30px 0 0 0px;
+}
+.contact_right h2 {
+	margin-bottom: 10px;
+}
+.contact_right h4 {
+	font-size: 19px;
+}
+.contact_right p {
+	font-size: 13px;
+	margin-top: 20px;
+}
+.contact_bottom1 span {
+	font-size: 17px;
+}
+
+/* footer part css */
+.footer_2 {
+	margin: 0 0 40px 21px;
+}
+.footer_2_items span {
+	color: #B5ACAC;
+}
+.footer_2 h6 {
+	margin: 4px 0 27px 0;
+}
+.margins_border_app{
+   padding: 15px 15px 57px 15px;
+}
+
+/* payment 0 */
+.emi_pff{
+    margin-left: 0;
+}
+.payment_header h2 {
+	margin-bottom: 28px;
+	font-size: 40px;
+}
+ /* contact page */
+  
+ .contact_page {
+    padding: 170px 0 50px 0;
+}
+}
+@media(min-width:576px) and (max-width:767.98px){
+      /* navbar css */
+    .custom_navs {
+        background: #161c1b !important;
+    }
+    .navbar_items .nav-item .nav-link {
+        margin: 0 30px 25px 30px;
+        box-shadow: 0px 1px 4px 2px #ddd!important;
+    }
+
+    /* hero part css */
+    #Hero_part {
+        padding: 120px 0 90px 0;
+    }
+    .hero_left h1 {
+        font-size: 41px;
+    }
+    .hero_left p {
+        font-size: 14px;
+    }
+    .hero_right{
+        margin-top: 50px;
+    }
+    .hero_right img {
+        width: 100%;
+        margin-left:0;
+    }
+    .finish_projects {
+        bottom: -4%;
+        right: 2%;
+    }
+
+    /* logo part css */
+    .logos {
+        margin:0 0 30px 0;
+    }
+    .service_1 {
+        margin-bottom: 35px;
+    }
+
+    /* counter part css */
+    #counter_part {
+	background-color: var(--secondary-color);
+	padding-top: 75px;
+   }
+   .counter_img img {
+	max-width: 60px;
+   }
+   .counter_content h4 {
+	color: var(--primary-background);
+	font-size: 30px;
+	font-weight: 700;
+	padding-top:0px;
+    }
+    .counter_content h5 {
+        font-size: 17px;
+        margin-top: 5px;
+    }
+    /* latest project css */
+    #Latest_projects {
+        padding: 100px 0 50px 0;
+    }
+    .latest_header h2 {
+        margin-bottom: 50px;
+    }
+    .service_border {
+        padding-bottom: 76px;
+    }
+    /* gave part start */
+    #gave_part {
+        padding-top:0px;
+    }
+    .gave_header h2 {
+        font-size: 39px;
+    }
+    .gave_header h4 {
+        margin-top: 10px;
+        font-size: 18px;
+        text-align: center;
+    }
+    .gave_right img {
+        width: 100%;
+        margin-top: 50px;
+    }
+    /* team part css */
+    #Team_part {
+        padding-bottom:0;
+    }
+    .team_content h3 {
+        color: var(--primary-background);
+        text-align: center;
+        font-size: 23px;
+        margin-top: 20px;
+    }
+    .team_content h4 {
+        padding-top: 9px;
+        font-size: 17px;
+    }
+    .team_items {
+        margin-bottom: 40px;
+    }
+   
+
+    /* contact part css */
+    .get_special {
+        bottom: 46%;
+        left: 64%;
+        width: 200px;
+    }
+    .get_special h6 {
+        font-size: 16px;
+    }
+    .contact_right {
+        margin: 40px 0 0 0px;
+    }
+    .contact_right p {
+        font-size: 14px;
+    }
+    .contact_bottom1 span {
+        font-size: 16px;
+    }
+    .contact_right p {
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .footer_2 {
+        margin: 35px 0px 40px 15px;
+    }
+
+    .footer_3 {
+        margin: 0 0 40px 15px;
+    }
+    .footer_4 {
+        margin: 5px 0 0 15px;
+    }
+
+    /* paayment */
+    .payment_header h2 {
+        margin-bottom: 30px;
+        font-size: 32px;
+    }
+
+   
+}
+@media(max-width:767.98px){
+    /* navbar css */
+    .custom_navs {
+        position: fixed;
+        width: 100%;
+        height: auto;
+        z-index: 99999;
+        padding: 10px 0;
+    }
+    .navbar_items .nav-item .nav-link {
+        color: var(--primary-background);
+        font-weight: 500;
+        font-size: 14px;
+        background: #332a2a;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        margin: 0 30px 25px 30px;
+        box-shadow: 0px 1px 4px 1px #ddd;
+    }
+    .navbar_items .nav-item .nav-link:hover{
+        color: #4ccbdb;
+    }
+    .navbar_items{
+        margin-left: auto !important;
+        text-align: center;
+        margin-top: 35px;
+    }
+    .navbs_logo img {
+        max-width: 100px;
+    }
+    .barsss{
+        color: var(--primary-background);
+        font-size: 17px;
+    }
+    .navbar_items .nav-item .nav-link:hover{
+        color: #4ccbdb;
+    }
+    .navbar_items{
+        margin-left: auto !important;
+        text-align: center;
+        margin-top: 35px;
+    }
+    .navbs_logo img {
+        max-width: 100px;
+    }
+    .barsss{
+        color: var(--primary-background);
+        font-size: 17px;
+    } 
+
+     /* emi */
+     .emi_pff{
+        margin-left: 0;
+    }
+    #payment {
+        background-color: var(--secondary-color);
+        padding: 60px 0 90px 0;
+    }
+}
+@media(max-width:575.98px){
+    .custom_navs {
+        background: #465352 !important;
+    }
+    .navbar_items .nav-item .nav-link {
+        margin: 0 30px 19px 30px;
+    }
+    
+    /* hero part css */
+    #Hero_part {
+        padding: 100px 0 30px 0;
+    }
+    .hero_left {
+        margin: 20px 30px;
+    }
+    .hero_left h1 {
+        font-size: 31px;
+        line-height: 44px;
+    }
+    
+    .hero_right img {
+        max-width: 100%;
+        margin-left:0px;
+    }
+    .finish_projects {
+   display: none;
+    }
+    .hero_left p {
+        font-weight: 400;
+        font-size: 14px;
+    }
+    .heros_row{
+        flex-direction: column-reverse;
+    }
+    .hero_right img {
+        margin: 0px -11px;
+    }
+
+    /* logo part css */
+   
+    #logo_part {
+        padding: 20px 0;
+    }
+    .logos img {
+        margin-bottom: 16px;
+    }
+    /* logo part css */
+
+      /* payment part start */
+      .payment_header h2 {
+        font-size: 33px;
+    }
+
+    /*  service part css*/
+    #service_part {
+        padding-top: 50px;
+    }
+   
+    .service_header h2 {
+        margin-bottom: 35px;
+        font-size: 36px;
+    }
+    .service_img img {
+        margin:0;
+        max-width: 220px;
+    }
+    .service_img{
+        text-align: center;
+        margin-top: 10px;
+    }
+    .service_1 {
+        height: 350px;
+        margin: 0 20px 40px 20px;
+    }
+
+    /* counter part css */
+    #counter_part {
+        padding-top: 80px;
+    }
+    .counter_1 {
+        margin-bottom: 50px;
+    }
+    .counter_img img {
+        max-width: 60px;
+        margin-bottom: 5px;
+    }
+    .counter_content h4 {
+        font-size: 29px;
+        font-weight: 600;
+    }
+    .counter_content h5 {
+        font-size: 18px;
+        margin-top: 5px;
+        font-weight: 500;
+    }
+
+    /* latest vlog css */
+    #Latest_projects {
+        padding: 50px 0 50px 0;
+    }
+    .latest_header h2 {
+        margin-bottom: 35px;
+        font-size: 36px;
+    }
+    .latest_Items {
+        margin-bottom: 50px;
+    }
+
+    /* gave part css */
+    #gave_part {
+        padding-top: 20px;
+    }
+    .gave_header h2 {
+        font-size: 36px;
+        text-align: center;
+        padding-bottom: 15px;
+    }
+    .gave_header h4 {
+        font-size: 20px;
+        text-align: center;
+    }
+    .gaves_content {
+        margin-left: 20px;
+    }
+    .gave_items {
+        padding: 40px 15px;
+    }
+    .gaves_content h6 {
+        font-size: 14px;
+        font-weight: 500;
+        padding-top: 2px;
+    }
+    .gaves_content h5 {
+        font-size: 22px;
+        margin-bottom: 5px;
+    }
+    
+    .shuffle_icon{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .shuffle_icon  i{
+        font-size: 27px;
+    }
+    .gave_right img {
+        margin-top: 40px;
+        width: 100%;
+    }
+
+    /* team part css */
+    #Team_part {
+        padding-bottom: 0px;
+    }
+    .Team_header {
+        margin-bottom: 45px;
+    }
+    .Team_header h2 {
+        font-size: 36px;
+    }
+    .team_items {
+        margin-bottom: 40px;
+    }
+
+    /* contact part css */
+    #contact_part {
+        padding: 50px 0 30px 0;
+    }
+    .contact_header h2 {
+        font-size: 36px;
+    }
+    .contact_header {
+        margin-bottom: 35px;
+    }
+    .contact_left {
+        padding: 23px;
+        margin: 13px;
+    }
+  
+    .contact_left form input {
+        width: 100%;
+        padding: 10px 0 10px 15px;
+        font-size: 14px;
+    }
+    .contact_left form textarea {
+        width: 100%;
+    }
+    .contact_left form textarea {
+        padding: 12px;
+        font-size: 14px;
+    }
+    .submit_btn{
+        margin-bottom: 15px;
+    }
+    .contact_right {
+        margin: 40px 0 10px 10px;
+    }
+    .contact_right h2 {
+        font-size: 35px;
+    }
+    .contact_right h4 {
+        font-size: 17px;
+        margin-bottom: 10px;
+    }
+    .contact_right p {
+        font-size: 14px;
+    }
+    .contact_bottom1 span {
+        color: var(--primary-background);
+        font-weight: 500;
+        font-size: 14px;
+    }
+    .contact_bottom1 {
+        align-items: center;
+    }
+    .get_special {
+        display: none;
+    }
+
+    /* footer part css */
+    .footer_1{
+        margin-bottom: 40px;
+    }
+    .footer_2 {
+        margin:0 0  40px 14px;
+    }
+    .footer_3{
+        margin-left: 15px;
+    }
+    .footer_4 {
+        margin: 40px 0 0 15px;
+    }
+    .footer_copy p {
+        font-size: 14px;
+    }
+
+    /* contact page */
+    .contact_page {
+        padding: 130px 0 0px 0;
+    }
+}
